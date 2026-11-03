@@ -1,0 +1,22 @@
+# Maven output
+**/target/
+**/build/
+
+# Eclipse workspace and project metadata
+.metadata/
+**/.metadata/
+.settings/
+**/.settings/
+.classpath
+.project
+.factorypath
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
